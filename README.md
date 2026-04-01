@@ -98,14 +98,6 @@ Train for more epochs:
 python src/train.py --epochs 25 --batch-size 256
 ```
 
-## How To Turn This Into A Strong Resume Bullet
-
-After you run the full experiment and capture real metrics, you can write something like:
-
-> Built a bidirectional LSTM-based ECG arrhythmia detector on the MIT-BIH Arrhythmia Database, using sliding-window normalization and FFT features to classify abnormal beats and achieve X.XX ROC AUC.
-
-Replace `X.XX` with your measured result from this project.
-
 ## Current Limitation In This Workspace
 
 The code is prepared for a real dataset workflow, but execution depends on a working Python environment with package installation available. If Python or pip is missing from PATH, install Python first or run with an available interpreter.
