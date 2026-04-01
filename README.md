@@ -13,7 +13,7 @@ This is a real standalone time-series project for ECG arrhythmia detection using
 
 ## Dataset
 
-This project is built for the official MIT-BIH Arrhythmia Database on PhysioNet:
+This project is built using official MIT-BIH Arrhythmia Database on PhysioNet:
 
 - MIT-BIH Arrhythmia Database: [physionet.org/physiobank/database/mitdb](https://physionet.org/physiobank/database/mitdb/)
 
