@@ -4,7 +4,7 @@ This is a real standalone time-series project for ECG arrhythmia detection using
 
 ## What The Project Does
 
-- downloads or reads the real MIT-BIH Arrhythmia Database
+- downloads and reads the real MIT-BIH Arrhythmia Database
 - extracts heartbeat windows around expert annotations
 - applies sliding-window normalization to reduce baseline drift and local noise
 - computes FFT magnitude features from each beat
